@@ -402,5 +402,5 @@ Also consider to change your output directories, to something static like ..user
 
 #
 
-[shield1_img]: https://img.shields.io/github/commit-activity/m/GrandEchoWhiskey/my_icv?style=flat-square
+[shield1_img]: https://img.shields.io/github/commit-activity/m/GrandEchoWhiskey/my-icv?style=flat-square
 [shield1_link]: #
