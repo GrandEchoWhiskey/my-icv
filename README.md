@@ -1,4 +1,7 @@
 # My Interactive CV
+
+[![][shield1_img]][shield1_link]
+
 #### Video Demo: https://youtu.be/MXsBOsn7h5k
 ### Description:
 
@@ -398,3 +401,6 @@ Also consider to change your output directories, to something static like ..user
 - #### Get rid of some repetition, for example in the VideoPlayer class. Like muting or getting the player state enum.
 
 #
+
+[shield1_img]: https://img.shields.io/github/commit-activity/m/GrandEchoWhiskey/my_icv?style=flat-square
+[shield1_link]: #
