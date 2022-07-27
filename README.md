@@ -1,6 +1,6 @@
 # My Interactive CV
 
-[![][shield1_img]][shield1_link]
+#### This project was created for the [CS50x](https://github.com/GrandEchoWhiskey/harvard-cs50-x-projects/blob/main/README.md) course, as the Final Project. 
 
 #### Video Demo: https://youtu.be/MXsBOsn7h5k
 ### Description:
